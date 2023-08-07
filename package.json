@@ -12,5 +12,8 @@
     "js"
   ],
   "author": "Maxim Y",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
